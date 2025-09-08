@@ -1,3 +1,7 @@
+# Notes and Code from Building a Large Language Model from Scratch
+
+Most of the code and notes are from [Building a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
+
 Coding an LLM - 3 stages
 
 Stage 1: Build the LLM
